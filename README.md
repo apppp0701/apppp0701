@@ -1,4 +1,7 @@
 ## Hi there 👋
+🧑‍🎓I'm studying in Fuzhou University.
+🏫I'm currently learning software engineering.
+📫 How to reach me: 127587831@qq.com
 
 <!--
 **apppp0701/apppp0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
